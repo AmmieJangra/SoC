@@ -1,4 +1,4 @@
-# Seasons of Code
+# Seasons of Code : Computational Geometry
 
 **Amisha**
 
