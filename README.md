@@ -1,5 +1,5 @@
 # Seasons of Code
 
-In this poject, I will try to mainly focus on multidimensional 
+In this project, I will try to mainly focus on multidimensional 
 
 
