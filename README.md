@@ -1,3 +1,5 @@
-# SoC
+# Seasons of Code
 
-trying. and trying. always
+In this poject, I will try to mainly focus on multidimensional 
+
+
