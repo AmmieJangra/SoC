@@ -22,6 +22,8 @@ Some topics, that I have studied so far (mostly graph theory), include :
                                             
  The input to a compuatational geometry problem usually includes a set of points, lines or both of them; and the output is usually a response to some query, say if there is a pair of lines, which intersect, or the convex hull for the given points. Now, we will see some general applications of Computational Gemoetry.
  
+ **Line Segments**
+ Given any two points <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> and <img src="https://render.githubusercontent.com/render/math?math=p_{2}">, then their convex combination is described as <img src="https://render.githubusercontent.com/render/math?math=\alpha"> <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> + <img src="https://render.githubusercontent.com/render/math?math=(1 - \alpha)p_{2}">
  
  
 
