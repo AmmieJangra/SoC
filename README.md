@@ -24,6 +24,4 @@ Some topics, that I have studied so far (mostly graph theory), include :
  
  **Line Segments**
  Given any two points <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> and <img src="https://render.githubusercontent.com/render/math?math=p_{2}">, then their convex combination is described as <img src="https://render.githubusercontent.com/render/math?math=\alpha"> <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> + <img src="https://render.githubusercontent.com/render/math?math=(1 - \alpha)p_{2}">
- 
- 
-
+ Or to put it simply, convex combination of two points is the set of points lying on the line joining the two points. A directed segment <img src="https://render.githubusercontent.com/render/math?math=\vec{p_{1}p_{2}}"> can be thought of vector from <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> to <img src="https://render.githubusercontent.com/render/math?math=p_{2}">. 
