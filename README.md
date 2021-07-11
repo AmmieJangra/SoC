@@ -22,7 +22,4 @@ Some topics, that I have studied so far (mostly graph theory), include :
                                             
  The input to a compuatational geometry problem usually includes a set of points, lines or both of them; and the output is usually a response to some query, say if there is a pair of lines, which intersect, or the convex hull for the given points. Now, we will see some general applications of Computational Gemoetry.
  
- **Line Segments**
- Given any two points <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> and <img src="https://render.githubusercontent.com/render/math?math=p_{2}">, then their convex combination is described as <img src="https://render.githubusercontent.com/render/math?math=\alpha"> <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> + <img src="https://render.githubusercontent.com/render/math?math=(1 - \alpha)p_{2}">
- Or to put it simply, convex combination of two points is the set of points lying on the line joining the two points. A directed segment <img src="https://render.githubusercontent.com/render/math?math=\vec{p_{1}p_{2}}"> can be thought of vector from <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> to <img src="https://render.githubusercontent.com/render/math?math=p_{2}">. When we want to know relative orientation of line segments, or if given line segments intersect or not, notion of cross product of two vectors helps. 
- Given two vectors <img src="https://render.githubusercontent.com/render/math?math=p_{1}"> and <img src="https://render.githubusercontent.com/render/math?math=p_{2}">, cross product is defined as 
+
